@@ -1,0 +1,6 @@
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\bin\Debug\WebViewinXamrin.dll
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\bin\Debug\WebViewinXamrin.pdb
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\obj\Debug\WebViewinXamrin.csprojResolveAssemblyReference.cache
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\obj\Debug\WebViewinXamrin.csproj.CoreCompileInputs.cache
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\obj\Debug\WebViewinXamrin.dll
+C:\Users\kumarrahul9292\Desktop\rahulpersonal\xamrin_workspace\WebViewinXamrin\WebViewinXamrin\WebViewinXamrin\obj\Debug\WebViewinXamrin.pdb

@@ -1,0 +1,8 @@
+WebViewinXamrin.Droid.MainActivity, WebViewinXamrin.Android;md58149fb5d0b530c532a3e2a5edacfab72.MainActivity
+WebViewinXamrin.Droid.MainActivity, WebViewinXamrin.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58149fb5d0b530c532a3e2a5edacfab72.MainActivity
+WebViewinXamrin.Droid.MainActivity;md58149fb5d0b530c532a3e2a5edacfab72.MainActivity
+webviewinxamrin.droid.MainActivity;md58149fb5d0b530c532a3e2a5edacfab72.MainActivity
+WebViewinXamrin.Droid.WebViewClientClass, WebViewinXamrin.Android;md58149fb5d0b530c532a3e2a5edacfab72.WebViewClientClass
+WebViewinXamrin.Droid.WebViewClientClass, WebViewinXamrin.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58149fb5d0b530c532a3e2a5edacfab72.WebViewClientClass
+WebViewinXamrin.Droid.WebViewClientClass;md58149fb5d0b530c532a3e2a5edacfab72.WebViewClientClass
+webviewinxamrin.droid.WebViewClientClass;md58149fb5d0b530c532a3e2a5edacfab72.WebViewClientClass
